@@ -1,2 +1,2 @@
-# Frontend_learning_ex1
+# goit-markup-hw-01
  
